@@ -1,0 +1,20 @@
+Liberty-ShareAlike Public License (LSA-1.0)
+
+SPDX usage guidance for this repository:
+
+  1) Use this exact identifier in source file headers:
+       SPDX-License-Identifier: LicenseRef-LSA-1.0
+
+  2) Ensure LICENSE (repo root) contains the full text of LSA-1.0. The
+     presence of LICENSE at repo root maps LicenseRef-LSA-1.0 to the
+     full license text for most tools and human readers.
+
+  3) The canonical stable URL for the LSA-1.0 text at v1.0:
+       https://github.com/ShortTimeNoSee/liberty-sharealike/blob/v1.0/LICENSE
+
+  4) If you use automated license scanners that require a mapping file,
+     add a mapping entry for LicenseRef-LSA-1.0 pointing to LICENSE.
+
+  5) Example one-line header for README or file top:
+       Licensed under the Liberty-ShareAlike Public License (LSA-1.0).
+       See LICENSE or https://github.com/ShortTimeNoSee/liberty-sharealike/blob/v1.0/LICENSE for full terms.

@@ -1,0 +1,5 @@
+Licensed under the Liberty-ShareAlike Public License (LSA-1.0).
+You may use, share, and adapt this material for any purpose.
+If you distribute adaptations, you must license them under LSA-1.0 and
+include the full license text or a stable link to it.
+No attribution is required. No additional restrictions or DRM may be applied.
